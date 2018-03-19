@@ -1,0 +1,7 @@
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\AbstactExmaple\AbstactExmaple\bin\Debug\AbstactExmaple.exe.config
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\AbstactExmaple\AbstactExmaple\bin\Debug\AbstactExmaple.exe
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\AbstactExmaple\AbstactExmaple\bin\Debug\AbstactExmaple.pdb
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\AbstactExmaple\AbstactExmaple\obj\Debug\AbstactExmaple.csprojResolveAssemblyReference.cache
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\AbstactExmaple\AbstactExmaple\obj\Debug\AbstactExmaple.csproj.CoreCompileInputs.cache
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\AbstactExmaple\AbstactExmaple\obj\Debug\AbstactExmaple.exe
+C:\Users\Ray\Documents\Visual Studio 2017\Projects\AbstactExmaple\AbstactExmaple\obj\Debug\AbstactExmaple.pdb
